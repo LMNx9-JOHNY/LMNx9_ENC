@@ -7,7 +7,7 @@
 - Speed Increase & Design Improved
 
 - Developer : [Contact](https://t.me/x_LMNx9)
-- Telegram : [Join](https://t.me/TEAM_LMNx9)
+- Telegram : [Join](https://t.me/TM_LMNx9)
 
 ![](https://raw.githubusercontent.com/LMNx9-JOHNY/LMNx9_ENC/refs/heads/main/LMNx9_ENC_v7.png)
 
@@ -21,4 +21,4 @@
     export X="DARK_LMNx9_ENC_v7_LSX37F4O52FHX5"
     python LMNx9_ENC_v7.py
 
-#  [JOIN TELEGRAM](https://t.me/TEAM_LMNx9)
+#  [JOIN TELEGRAM](https://t.me/TM_LMNx9)
