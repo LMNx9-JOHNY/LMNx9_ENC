@@ -21,4 +21,4 @@
     export X="DARK_LMNx9_ENC_v7_LSX37F4O52FHX5"
     python LMNx9_ENC_v7.py
 
-#  [JOIN TELEGRAM](https://t.me/TM_LMNx9)
+#  [JOIN TELEGRAM](https://t.me/+6hZVa9jGrIY4ZDRl)
