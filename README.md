@@ -1,15 +1,15 @@
-# LMNx9 ENC v7.0
+# LMNx9 ENC DEC v9.0
 
-- Tool - LMNx9 ENC
-- Update Version - v7.0 armv64
+- Tool - LMNx9 ENC DEC
+- Update Version - v9.0 arch64-v8a
 - Status - FREE | FAST | SECURE
 - All Bug Fixed  & New Features Added
 - Speed Increase & Design Improved
 
 - Developer : [Contact](https://t.me/x_LMNx9)
-- Telegram : [Join](https://t.me/TM_LMNx9)
+- Telegram : [Join](https://t.me/+6hZVa9jGrIY4ZDRl)
 
-![](https://raw.githubusercontent.com/LMNx9-JOHNY/LMNx9_ENC/refs/heads/main/LMNx9_ENC_v7.png)
+![](https://raw.githubusercontent.com/LMNx9-JOHNY/LMNx9_ENC/refs/heads/main/ENCv9.png)
 
 # Installation :
     apt update && upgrade
